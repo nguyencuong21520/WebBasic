@@ -1,0 +1,18 @@
+h1{
+    color: rgb(13, 13, 163);
+    font-size: 100;
+    text-align: center;
+}
+.c{
+    color:burlywood;
+    text-align: center;
+   
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 38%;
+}
+body{
+    background-color: cornflowerblue;
+}
